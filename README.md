@@ -7,7 +7,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Templating Engine: EJS (Embedded JavaScript)
 Architecture: MVC (Model-View-Controller)
-##Features:
+## Features:
 User Authentication:
 Sign-up/Login functionality with session-based authentication (Passport.js or JWT).
 Role-based access (Admin, Host, Guest).
@@ -20,7 +20,7 @@ Hosts can manage bookings.
 Reviews & Ratings:
 Guests can leave reviews and ratings for properties.
 Reviews are displayed dynamically using EJS.
-##MVC Architecture Implementation:
+## MVC Architecture Implementation:
 Model (M - MongoDB & Mongoose):
 Defines schemas for users, properties, bookings, and reviews.
 Handles database operations.
