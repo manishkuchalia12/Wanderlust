@@ -33,4 +33,13 @@ Handles business logic and database interactions.
 
 ## Demo 
 
+![image alt](https://github.com/manishkuchalia12/Wanderlust/blob/f0f69dbc937cfb951a8879c6090b9960f697921d/Screenshot%202025-02-10%20100256.png)
+
+![image alt](https://github.com/manishkuchalia12/Wanderlust/blob/f0f69dbc937cfb951a8879c6090b9960f697921d/Screenshot%202025-02-10%20101402.png)
+
+![image alt](https://github.com/manishkuchalia12/Wanderlust/blob/f0f69dbc937cfb951a8879c6090b9960f697921d/Screenshot%202025-02-10%20101505.png)
+
+![image alt](https://github.com/manishkuchalia12/Wanderlust/blob/f0f69dbc937cfb951a8879c6090b9960f697921d/Screenshot%202025-02-10%20101536.png)
+
+
 
